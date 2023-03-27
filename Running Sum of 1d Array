@@ -1,0 +1,11 @@
+class Solution(object):
+    def runningSum(self, nums):
+        newlist = [] 
+        if not nums:
+            return
+        if len(nums) == 1:
+            return nums 
+        for num in nums:
+            running_sum += num
+            newlist.append(running_sum)
+        return newlist
