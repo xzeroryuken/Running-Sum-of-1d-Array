@@ -23,12 +23,3 @@
 <strong>Input:</strong> nums = [3,1,2,10,1]
 <strong>Output:</strong> [3,4,6,16,17]
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
-
-<ul>
-	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>-10<sup>4</sup> &lt; nums[i], target &lt; 10<sup>4</sup></code></li>
-	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
-	<li><code>nums</code> is sorted in ascending order.</li>
-</ul>
